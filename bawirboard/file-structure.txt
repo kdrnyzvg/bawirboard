@@ -1,0 +1,19 @@
+├── .filetreeignore
+├── app
+  ├── build.gradle
+  └── src
+    └── main
+      ├── AndroidManifest.xml
+      ├── java
+        └── com
+          └── bawir
+            └── inputmethod
+              └── BawirInputMethodService.kt
+      └── res
+        ├── layout
+          └── preview.xml
+        └── xml
+          ├── cyryllic.xml
+          ├── method.xml
+          └── qwerty.xml
+└── settings.gradle
